@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/client_main.dir/client_main.cpp.o CMakeFiles/client_main.dir/client.cpp.o  -o client_main  -lsfml-system -lsfml-network -lsfml-graphics -lsfml-audio -lsfml-window 

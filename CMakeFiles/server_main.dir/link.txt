@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/server_main.dir/server_main.cpp.o CMakeFiles/server_main.dir/server.cpp.o  -o server_main  -lsfml-system -lsfml-network -lsfml-graphics -lsfml-audio 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dwayne/share/shared/test6_network_audio/Client.h
+SFML/Network.hpp
+-
+PacketType.h
+/home/dwayne/share/shared/test6_network_audio/PacketType.h
+
+/home/dwayne/share/shared/test6_network_audio/PacketType.h
+SFML/System.hpp
+-
+
+/home/dwayne/share/shared/test6_network_audio/client_main.cpp
+iostream
+-
+Client.h
+/home/dwayne/share/shared/test6_network_audio/Client.h
+

@@ -1,0 +1,4 @@
+/home/dwayne/share/shared/test6_network_audio/CMakeFiles/rebuild_cache.dir
+/home/dwayne/share/shared/test6_network_audio/CMakeFiles/edit_cache.dir
+/home/dwayne/share/shared/test6_network_audio/CMakeFiles/client_main.dir
+/home/dwayne/share/shared/test6_network_audio/CMakeFiles/server_main.dir
